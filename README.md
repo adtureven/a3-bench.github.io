@@ -4,7 +4,15 @@ This is the repository that contains source code for the [A3-Bench website](http
 
 If you find A3-Bench useful for your work please cite:
 ```
-Coming soon
+@misc{zhang2026a3benchbenchmarkingmemorydrivenscientific,
+      title={$A^3$-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation}, 
+      author={Jian Zhang and Yu He and Zhiyuan Wang and Zhangqi Wang and Kai He and Fangzhi Xu and Qika Lin and Jun Liu},
+      year={2026},
+      eprint={2601.09274},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2601.09274}, 
+}
 ```
 
 # Website License
